@@ -1,0 +1,4 @@
+<!Document HTML>
+name = 12
+name2 = 12
+print(name + name2)
